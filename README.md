@@ -12,7 +12,10 @@
 Este repositório apresenta a solução de exercícios de juíz online relacionados ao assunto de grafos. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+
+![Course Schedule II](assets/course-schedule-ii.png)
 
 ## Instalação 
 **Linguagem**: Python <br>
