@@ -17,6 +17,10 @@ Este repositório apresenta a solução de exercícios de juíz online relaciona
 
 ![Course Schedule II](assets/course-schedule-ii.png)
 
+### [Bus Routes](https://leetcode.com/problems/bus-routes/description/)
+
+![Bus Routes](assets/bus-routes.png)
+
 ## Instalação 
 **Linguagem**: Python <br>
 
