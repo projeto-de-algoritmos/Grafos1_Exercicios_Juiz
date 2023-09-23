@@ -25,6 +25,10 @@ Este repositório apresenta a solução de exercícios de juíz online relaciona
 
 ![Flood Fill](assets/flood-fill.png)
 
+### [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+
+![Is Graph Bipartite?](assets/is-graph-bipartite.png)
+
 ## Instalação 
 **Linguagem**: Python <br>
 
