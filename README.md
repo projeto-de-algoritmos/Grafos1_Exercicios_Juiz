@@ -36,9 +36,9 @@ Esse exercício envolve visualizar uma matriz de pixels como um grafo de forma a
 
 
 
-### [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+### [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) (Médio)
 
-![Is Graph Bipartite?](assets/is-graph-bipartite.png) (Médio)
+![Is Graph Bipartite?](assets/is-graph-bipartite.png)
 
 Esse exercício envolve fazer uma BFS colorindo os nós de um grafo de modo a verificar se ele pode ser bipartido, ou não.
 [Código](./exercicios/is-graph-bipartite.py)
