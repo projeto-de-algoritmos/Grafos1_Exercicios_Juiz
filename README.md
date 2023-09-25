@@ -29,6 +29,10 @@ Este repositório apresenta a solução de exercícios de juíz online relaciona
 
 ![Is Graph Bipartite?](assets/is-graph-bipartite.png)
 
+### [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
+
+![Shortest Cycle in a Graph](assets/cycle.png)
+
 ## Instalação 
 **Linguagem**: Python <br>
 
