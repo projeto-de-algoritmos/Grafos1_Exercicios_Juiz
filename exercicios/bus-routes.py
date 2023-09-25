@@ -3,7 +3,7 @@ from collections import defaultdict
 
 class Solution(object):
     def numBusesToDestination(self, routes, source, target):
-        # Constroi um grafo bipartido com arestas entre as paradas e os respectivos onibus que passam nelas
+        # Constroi um grafo "bipartido" com arestas entre as paradas e os respectivos onibus que passam nelas
         graph = defaultdict(set)
         for bus, stops in enumerate(routes):
             for stop in stops:
