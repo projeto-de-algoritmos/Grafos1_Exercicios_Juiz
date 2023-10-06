@@ -69,6 +69,8 @@ python3 nomeDoArquivo.py
 
 Foi gravado um vídeo explicando a solução de cada um dos exercícios, segue o [link](/assets/apresentacao_trabalho.mp4)
 
+OBS.: O vídeo está com a extensão .mp4 e deve ser baixado para que possa ser assistido.
+
 
 
 
