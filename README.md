@@ -67,7 +67,7 @@ python3 nomeDoArquivo.py
 
 ## Apresentação
 
-Foi gravado um vídeo explicando a solução de cada um dos exercícios, segue o [link](https://www.youtube.com/watch?v=vF46aKxojqY)
+Foi gravado um vídeo explicando a solução de cada um dos exercícios, segue o [link](/assets/apresentacao_trabalho.mp4)
 
 
 
